@@ -1,2 +1,2 @@
-# data-medway
-Data about Medway, Kent, England
+# Description  
+Data related to Medway, Kent, England.
